@@ -4,4 +4,7 @@ working on adding a tableau file to provide visual insights on the data in anoth
 
 This is the current interactive dashboard which allows users to change any of the input parameters for the included graphs to gain deeper insights about the financial performance of the company and to forecast future performance
 <img width="1168" alt="Screenshot 2022-05-06 at 09 22 12" src="https://user-images.githubusercontent.com/98121213/167173886-f37d8cff-296f-4c4c-847a-0d34444828f8.png">
+
+
+This is the current Tableau file which aims to breakdown the the contribution of each sector of Google to its overall revenue
 <img width="608" alt="Screenshot 2022-05-08 at 10 52 34" src="https://user-images.githubusercontent.com/98121213/167308948-df3f4684-6fba-4658-adf4-ad75183c044c.png">
